@@ -1,3 +1,5 @@
+# Day 2
+
 ## Variables 
 
 - Variables are words that store data
