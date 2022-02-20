@@ -49,27 +49,17 @@ iss_position()
 - A docstring explains what the function does and outlines its parameters
 
 ```python
-import requests
-
-def iss_position():
+def sum(a, b):
+    """This function returns the sum of two numbers
+    
+    Args:
+        a (float): first number
+        b (float): second number
+    
+    Returns:
+        float: sum of two arguments
     """
-    This function prints the latitude and longitude of the ISS
-
-    Parameters
-    ----------
-    None
-
-    Returns
-    -------
-    None
-    """
-    url = "http://api.open-notify.org/iss-now.json"
-    response = requests.get(url).json()
-
-    print("Longitude: "+response["iss_position"]["longitude"])
-    print("Latitude: "+response["iss_position"]["latitude"])
-
-iss_position()
+    return a + b
 ```
 
 <br>
