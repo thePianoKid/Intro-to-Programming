@@ -57,7 +57,7 @@ print(message)
 
 ## Getting Input
 
-- Pythyon makes it easy to get input from the terminal
+- Python makes it easy to get input from the terminal
 - Simply use the `input` keyword
 
 > get_input.py

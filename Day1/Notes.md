@@ -4,7 +4,7 @@
 
 - Every single field has been affected by the digital revolution of the 21st century. Any career will be enhanced by a solid understanding of programming.
 
-- Programming is also a relatively new field, so it’s purity has not yet been ruined by musty old men imposing nonsensical regulations and "best practises".
+- Programming is also a relatively new field, so it’s purity has not yet been ruined by musty old men imposing nonsensical regulations and "best practices".
 
 - Also… 💰
     - The average software engineer makes $150K CAD
@@ -34,7 +34,7 @@
 
     - Steve Wozniak co-founded Apple Computers with Steve Jobs. Together, they created the first truly accessible personal computer; the Apple II.
 
-    - The Apple II revolutionised computing and spawned a whole generation of programmers and hackers. 
+    - The Apple II revolutionized computing and spawned a whole generation of programmers and hackers. 
 
     - Steve Jobs would go on to take Apple Computers to immeasurably greater heights, creating amazing new products like the iPod, iPhone and iPad. 
 
@@ -62,11 +62,11 @@
 
 ## The terminal (command prompt)
 
-- The terminal is a direct connection between the user and the centeral processing unit of the computer 
+- The terminal is a direct connection between the user and the central processing unit of the computer 
 
 - You enter text-based command that tell the computer exactly what to do
 
-- Before Apple's opertating system was written, the only application on a PC was the terminal
+- Before Apple's operating system was written, the only application on a PC was the terminal
 
 - The terminal is not used as often today because apps with windows have become more popular
 
@@ -95,7 +95,7 @@ telnet towel.blinkenlights.nl
 >>> 9//2
 ```
 
-- We call the symbols "+, -, *, ..." arthmetic operators
+- We call the symbols "+, -, *, ..." arithmetic operators
 - The "**" symbol is the exponential operator; it raises the first number to the power of the second number
 - The "%" symbol is the modulo operator, it returns the remainder after dividing the first number by the second number
 - The "//" symbol performs integer division
