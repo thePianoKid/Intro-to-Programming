@@ -2,9 +2,9 @@
 
 ## Why Program?
 
-- Every single field has been affected by the digital revolution of the 21st century. Any career will be enhanced by a solid 	understanding of programming.
+- Every single field has been affected by the digital revolution of the 21st century. Any career will be enhanced by a solid understanding of programming.
 
-- Programming is also a relatively new field, so it’s purity has not yet been ruined by musty old men imposing nonsensical 	regulations and "best practises".
+- Programming is also a relatively new field, so it’s purity has not yet been ruined by musty old men imposing nonsensical regulations and "best practises".
 
 - Also… 💰
     - The average software engineer makes $150K CAD
@@ -19,24 +19,24 @@
 
 ## A (very) Brief History of Computing
 
-- Before we get into programming, it is important to look down at the shoulders of the giants we are standing on. These are great 	men who have made it possible for you to spend hours in your room watching "Treadmill Fails - Vol 13"
+- Before we get into programming, it is important to look down at the shoulders of the giants we are standing on. These are great men who have made it possible for you to spend hours in your room watching "Treadmill Fails - Vol 13"
 
 - Alan Turing
 
     - Alan Turing was a British mathematician who taught himself higher mathematics while in high school.
 
-    - Turing single handedly laid the foundation for modern computing in the 1920s. He invented the binary system that is still 		used in computers today.
+    - Turing single handedly laid the foundation for modern computing in the 1920s. He invented the binary system that is still used in computers today.
 
-    - Turing also contributed significantly to the war effort during WWII as a code breaker. Historians agree that Turing’s work in 		decryption shortened the War by months or even years, saving countless lives.
+    - Turing also contributed significantly to the war effort during WWII as a code breaker. Historians agree that Turing’s work in decryption shortened the War by months or even years, saving countless lives.
 
 
 - Steve Wozniak and Steve Jobs
 
-    - Steve Wozniak co-founded Apple Computers with Steve Jobs. Together, they created the first truly accessible personal 		computer; the Apple II.
+    - Steve Wozniak co-founded Apple Computers with Steve Jobs. Together, they created the first truly accessible personal computer; the Apple II.
 
     - The Apple II revolutionised computing and spawned a whole generation of programmers and hackers. 
 
-    - Steve Jobs would go on to take Apple Computers to immeasurably greater heights, creating amazing new products like the 		iPod, iPhone and iPad. 
+    - Steve Jobs would go on to take Apple Computers to immeasurably greater heights, creating amazing new products like the iPod, iPhone and iPad. 
 
 - Further research: George Boole, Robert Moore, Edsger Dijkstra, Bill Gates
 
@@ -44,10 +44,10 @@
 
 ## What is Python?
 
-- Python is a programming language that can be installed on any computer (Windows, Mac, Linux). Python is like a bridge between 	the user (you) and the computer. The computer only understands ones and zeros, and humans only understand spoken languages. 	Python, and all other programming languages like it are kind of like a mix. Humans can pretty easily read python code, but it is 	certainly not like any human language. 
+- Python is a programming language that can be installed on any computer (Windows, Mac, Linux). Python is like a bridge between the user (you) and the computer. The computer only understands ones and zeros, and humans only understand spoken languages. Python, and all other programming languages like it are kind of like a mix. Humans can pretty easily read python code, but it is certainly not like any human language. 
 
 - There are many different ways to run Python code, we will be using two different ways.
-    - First, we will look at the IDLE which can only run one python command at a time. This makes it easy to run little chunks of 		code, but you can’t really write a big program on it
+    - First, we will look at the IDLE which can only run one python command at a time. This makes it easy to run little chunks of code, but you can’t really write a big program on it
     - Later on, we will look at creating files where we can store long programs
 
 <br>
@@ -58,7 +58,23 @@
 
 - Once Python has been downloaded onto your machine, your computer will be able to "speak" the Python programming language. 
 
-- Enter python3 into the command prompt to make sure Python was installed correctly
+- Enter python3 into the terminal to make sure Python was installed correctly
+
+## The terminal (command prompt)
+
+- The terminal is a direct connection between the user and the centeral processing unit of the computer 
+
+- You enter text-based command that tell the computer exactly what to do
+
+- Before Apple's opertating system was written, the only application on a PC was the terminal
+
+- The terminal is not used as often today because apps with windows have become more popular
+
+- Programmers still use the terminal because it is more efficient
+
+```bash
+telnet towel.blinkenlights.nl
+```
 
 ## Basic Data Types in Python 
 
