@@ -60,6 +60,8 @@
 
 - Enter python3 into the terminal to make sure Python was installed correctly
 
+<br>
+
 ## The terminal (command prompt)
 
 - The terminal is a direct connection between the user and the central processing unit of the computer 
@@ -76,10 +78,13 @@
 telnet towel.blinkenlights.nl
 ```
 
+<br>
+
 ## Basic Data Types in Python 
 
 - Data types are like different kinds of objects. In the physical world we all live in, we classify different types of objects (the word 	"car" could refer to a Jeep, a Tesla, etc). We do the same thing in coding. There are different types of "objects" that we need to 	learn about.
 
+<br>
 
 ## Integers
 - You may know of integers from math: they are whole numbers without any decimals places. Python is very good at working 		with integers; we can do all sorts of calculations. 
@@ -100,9 +105,13 @@ telnet towel.blinkenlights.nl
 - The "%" symbol is the modulo operator, it returns the remainder after dividing the first number by the second number
 - The "//" symbol performs integer division
 
+<br>
+
 ## Floating Point Numbers
 - Floating point numbers are different from integers because they contain a decimal place. For example, 3 is a integer while 		3.0 is a floating point number.
 - Floating point numbers use the same arithmetic operators as integers
+
+<br>
 
 ## Strings
 - Strings are basically collections of characters that stored in a sequence
