@@ -26,6 +26,8 @@
 >>> print("Hello "+name)
 ```
 
+<br>
+
 ## Saving Python Files
 
 - Now that we have talked about the basic command you need to know to get started with Python, let’s start making some 	real programs instead of typing all these commands into the IDLE
@@ -55,6 +57,8 @@ print(message)
 
 - Get used to this notion of making and saving files, we will be doing it A LOT
 
+<br>
+
 ## Getting Input
 
 - Python makes it easy to get input from the terminal
@@ -66,6 +70,8 @@ user_input = input("Enter your name: ")
 print("Hello, "+user_input+"!")
 ```
 
+<br>
+
 ## Comments
 
 - Comments are used to explain code
@@ -76,6 +82,8 @@ print("Hello, "+user_input+"!")
 # This is an example of a comment
 # These two lines will be completely ignored
 ```
+
+<br>
 
 ## If Statements
 
@@ -105,6 +113,8 @@ else:
 	print("Incorrect password, try again")
 ```
 
+<br>
+
 ## For Loops
 
 - For loops repeat a block of code n times
@@ -124,6 +134,8 @@ for i in range(100):
 for i in range(5):
 	print(str(i)+"bottles of beer on the wall")
 ```
+
+<br>
 
 ## While Loops
 
