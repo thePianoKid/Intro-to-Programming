@@ -47,7 +47,7 @@ iss_position()
 - It is a good idea to include a docstring whenever you make a function
 
 - A docstring explains what the function does and outlines its parameters
-    - There are different ways to format the docstring, I like [Google Style Python Docstrings](https://www.sphinx-doc.org/en/master/usage/extensions/example_google.html)
+    - There are different ways to format the docstring, I like [Google Style Docstrings](https://www.sphinx-doc.org/en/master/usage/extensions/example_google.html)
 
 ```python
 def sum(a, b):
