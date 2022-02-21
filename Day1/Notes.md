@@ -2,18 +2,19 @@
 
 ## Why Program?
 
-- Every single field has been affected by the digital revolution of the 21st century. Any career will be enhanced by a solid understanding of programming.
+Computer science is perhaps the most applicable scientific field of our time. Computers have invaded every possible aspect of modern life: computers aid social interaction, they are instrumental in the field of medicine, they have mapped every single square meter of our planet. The list seems to be steadily approaching infinity. No matter what your career path is, a solid understand of computers and programming will aid you and differentiate you from your peers. 
 
-- Programming is also a relatively new field, so it’s purity has not yet been ruined by musty old men imposing nonsensical regulations and "best practices".
+Computers, essentially, are machines that clumsily imitate the beautiful complexity of the human brain. The hardware of a computer is like the fleshy part of the brain, it is the programmer’s job to fill this metal box with “thoughts”. There are very striking parallels between programming and the elves waking up the trees and teaching them to speak in Lord of the Rings.
 
-- Also… 💰
-    - The average software engineer makes $150K CAD
-    - Average software developer at Google makes $190K CAD
-    - Most of the gigantic multi-billion dollar companies are software-based
-        - Facebook
-        - Amazon
-        - Netflix
-        - Google
+If are not swayed by inherit beauty of computer programming, perhaps I can convince to learn to love this field using monetary incentives.
+
+The average North American software engineer makes $150K CAD and an every-level position in Canada pays about $80K CAD. As in every field, if you are good at what you do, you will make more than the average person. For example, a senior developer at Google makes upwards of $200K per year. 
+
+If we have some fledgling entrepreneurs in the room, programming is an invaluable skill to have. Most new businesses utilize code and there is very little overhead in the tech sector; many of the great inventions of the 21st century have been by university students working in their garage. 
+
+In this course, I will be giving you the building blocks you will need to start your journey as a programmer. It is up to you to take these tools that I am giving you and makes something amazing. If you don’t think you have a good enough computer, always remember that the computers used to go to the moon had less computation power than a smartphone from 5 years ago.  
+
+Thank you very, very much for your patience I hope you didn’t mind my little rant. Without further ado, let’s get programming!
 
 <br>
 
